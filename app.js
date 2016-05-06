@@ -14,9 +14,9 @@ var q = {
 // connect to db ///////////////////////////////////////
 var mysql = require('mysql');
 var dbParams = {
-      host     : 'twittmap.ct78jelemnjv.us-east-1.rds.amazonaws.com',
-      user     : 'ebroot',
-      password : 'JoshPriya9'
+      host     : 'localhost',
+      user     : 'xxxxx'
+      password : 'xxxxxxxx'
       ,port        :  3306
     };
 var connection = mysql.createConnection(dbParams);
