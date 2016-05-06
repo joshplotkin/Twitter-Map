@@ -1,7 +1,7 @@
 Twitter Map
 =========
 
-This project was made with Priya Venkat in Fall 2014 and uses the following:
+This project was made with Priya Venkat during Fall 2014 and uses the following:
 * AWS EC2, SQS, SNS)
 * node.js (with socket.io for web socket)
 * d3.js
